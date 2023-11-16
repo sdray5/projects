@@ -1,0 +1,241 @@
+,Card Name,Card Classes,Event Phase,Active Event,Abilities,Ability Text,Under,Cost,Strength,Life,Faction,Copies
+0,Tacullu,['Summoner'],,False,['Mind Capture'],"['When this unit attacks an enemy unit, if the damage added would be enough to destroy the target, you may instead ignore that damage and take control of the target.']",False,,3,13,Breakers,1
+1,Mind Control,[],Summon Phase,False,[None],[None],False,0,,,Breakers,2
+2,Deceiver,['Common'],,False,"['Stupify', 'Engage']","['When an adjacent enemy attacks any card, if 1 or more ', 'Each time an adjacent enemy unit moves or is forced away from this unit, add 1 damage to that enemy.']",False,1,1,4,Breakers,5
+3,Mind Witch,['Common'],,False,['Mimic'],"['At the start of your Move Phase, this unit may target a common within 3 spaces. This unit has the target’s abilities until the end of your turn.']",False,1,3,2,Breakers,5
+4,Gulldune,['Champion'],,False,['Telepathic Command'],"['After this unit attacks an enemy card, this unit may target a friendly common within 3 spaces. The target resolves an extra attack.']",False,6,4,6,Breakers,1
+5,Gwalark,['Champion'],,False,"['Flight', 'Levitate']","['When this unit moves, it may move 1 extra space and through cards.', 'Any friendly common that starts its move within 2 spaces of this unit has Flight during that move.']",False,6,3,8,Breakers,1
+6,Kalal,['Champion'],,False,"['Greater Push', 'Steadfast']","['After this unit attacks, or instead of attacking, this unit may target a common or champion within 3 spaces. Force the target 1 space.', 'This unit cannot be forced.']",False,7,4,8,Breakers,1
+7,Wind Archer,['Common'],,False,"['Far Shot', 'Swift']","['This unit may attack cards up to 4 clear straight spaces away.', 'When this unit moves, it may move 1 extra space.']",False,2,4,2,Breakers,4
+8,Wind Mage,['Common'],,False,['Push'],"['After this unit attacks, or instead of attacking, this unit may target a common or champion within 2 spaces. Force the target 1 space.']",False,1,2,3,Breakers,4
+9,Blast,[],Move Phase,False,[None],[None],False,1,,,Breakers,2
+10,Hypnotic Call,[],Summon Phase,True,[None],[None],False,0,,,Breakers,2
+11,Perplexing Tempest,[],Magic Phase,True,[None],[None],False,0,,,Breakers,2
+12,Sneeks,['Summoner'],,False,['Sly'],"['Once per turn, during your Attack Phase, this unit may exchange places with a friendly 0 cost unit.']",False,,3,11,Cave Goblins,1
+13,Enrage the Horde,[],Magic Phase,False,[None],[None],False,1,,,Cave Goblins,2
+14,Horde Slinger,['Common'],,False,['Relentless'],['You may choose this unit as an extra attacking unit during your Attack Phase.'],False,0,2,1,Cave Goblins,5
+15,Beast Rider,['Common'],,False,['Charge'],"['When this unit moves, it may move up to 2 extra spaces if it moves only in one direction. If it moves 3 or more spaces and only in one direction, it has +1 strength until the end of the turn.']",False,2,3,3,Cave Goblins,5
+16,Blarf,['Champion'],,False,"['Blood Runes', 'Imbued Strength']","['At the start of your Attack Phase, either spend 1 magic to boost this unit or add 1 damage to this unit.', 'This unit has +1 strength for each boost it has, to a maximum of +5.']",False,0,0,6,Cave Goblins,1
+17,Smeg,['Champion'],,False,"['Magic Junkie', 'Relentless']","['At the end of your turn, either spend 1 magic or discard this unit.', 'You may choose this unit as an extra attacking unit during your Attack Phase.']",False,0,2,4,Cave Goblins,1
+18,The Eater,['Champion'],,False,['Feed the Eater'],"['At the end of your Attack Phase, if this unit did not destroy a unit this turn, either discard a friendly adjacent unit or discard this unit.']",False,6,5,9,Cave Goblins,1
+19,Clinger,['Common'],,False,"['Immobile', 'Cling']","['This unit cannot move.', 'When a friendly unit starts its move adjacent to this unit, after that move, you may place this unit adjacent to that unit.']",False,0,2,2,Cave Goblins,4
+20,Horde Climber,['Common'],,False,['Climb'],"['When this unit moves, it may move 1 extra space and through structures.']",False,0,1,3,Cave Goblins,4
+21,Pile On,[],Attack Phase,True,['Gang Up'],"['When this unit attacks, it has +1 strength for each other friendly unit adjacent to its target.']",False,0,,,Cave Goblins,2
+22,Sneak,[],Move Phase,False,[None],[None],False,0,,,Cave Goblins,2
+23,Unrelenting,[],Magic Phase,True,[None],[None],False,1,,,Cave Goblins,2
+24,Vlox,['Summoner'],,False,['Master of the Art'],"['At the end of your Summon Phase, this unit may target a friendly unit.  This unit has the target’s abilities until the end of your turn.']",False,,3,13,Cloaks,1
+25,Out of Shadows,[],Summon Phase,True,['Blindside'],"['After this unit attacks an adjacent enemy unit, if that enemy is still in play, this unit may target a friendly unit within 2 spaces. Place the target adjacent to that enemy.']",False,0,,,Cloaks,2
+26,Guild Machinist,['Common'],,False,['Versatile'],['This unit may attack instead of moving and may move instead of attacking.'],False,2,2,4,Cloaks,5
+27,Guild Sniper,['Common'],,False,['Steady Shot'],"['If this unit moved 1 or fewer spaces this turn, it may attack through units.']",False,1,2,3,Cloaks,5
+28,Admiral,['Champion'],,False,"['Relentless', 'Swift']","['You may choose this unit as an extra attacking unit during your Attack Phase.', 'When this unit moves, it may move 1 extra space.']",False,6,4,7,Cloaks,1
+29,Dagger,['Champion'],,False,"['Sly', 'Backstab']","['Once per turn, during your Attack Phase, this unit may exchange places with a friendly 0 cost unit.', 'When this unit attacks a unit from behind, it has +2 strength.']",False,4,3,6,Cloaks,1
+30,Sin-Sin,['Champion'],,False,"['Bounty', 'Infiltrate']","['After this unit is destroyed, your opponent gains 3 magic.', ""At the end of your turn, if this unit is in your opponent's back row, you may place it in your back row to add 1 damage to the enemy summoner.""]",False,0,2,6,Cloaks,1
+31,Guild Gunner,['Common'],,False,['Cover Fire'],"['After this unit attacks an enemy unit, this unit may target a friendly unit within 2 spaces.  Force the target 1 or 2 spaces.']",False,1,3,2,Cloaks,4
+32,Rustside Bandit,['Common'],,False,"['Gang Up', 'Heist']","['When this unit attacks, it has +1 strength for each other friendly unit adjacent to its target.', ""At the end of your turn, if this unit is in your opponent's back row, you may place it in your back row to gain 1 magic.""]",False,0,1,3,Cloaks,4
+33,Hand Cannon,[],Build Phase,False,['Power Shot'],"['When this unit attacks a non-adjacent card, it has +1 strength.']",True,0,,,Cloaks,2
+34,Moto Boots,[],Move Phase,False,['Burst of Speed'],"['Once per turn, during your Move Phase, you may force this unit 1 or 2 spaces. It may be forced through units.']",True,1,,,Cloaks,2
+35,Smoke Bomb,[],Magic Phase,True,[None],[None],False,0,,,Cloaks,2
+36,Baron Daemar,['Summoner'],,False,"['Blood Drain', 'Faithful Servants']","['After this unit attacks and damages a unit, remove 1 damage from this unit.', 'At the start of your Magic Phase, you may summon a Cultist unit adjacent to this unit.']",False,,3,10,Crimson Order,1
+37,Convert,[],Attack Phase,True,[None],[None],False,0,,,Crimson Order,2
+38,Royal Warrior,['Common'],,False,['Blood Begotten'],"['Before this unit attacks, you may add 1 damage to your summoner. If you do, this unit has +2 strength during that attack.']",False,2,2,5,Crimson Order,5
+39,Devout Cultist,['Common'],,False,['Undying Devotion'],"['After this unit is destroyed, roll a die. If a ']",False,0,2,2,Crimson Order,5
+40,Casimira,['Champion'],,False,['Blood Thrall'],"['After this unit attacks and destroys an enemy unit, you may retrieve a Cultist unit from your discard pile, reveal it, and add it to your hand.']",False,5,3,7,Crimson Order,1
+41,Sekhmet,['Champion'],,False,"['Flight', 'Blood Hunger']","['When this unit moves, it may move 1 extra space and through cards.', 'At the end of your Attack Phase, if this unit did not destroy a unit this turn, add 2 damage to this unit.']",False,7,4,10,Crimson Order,1
+42,Vesna Brana,['Champion'],,False,['Blood Ward'],"['Each time 1 or more damage would be added to this unit, do not add more than 1 damage.']",False,3,3,3,Crimson Order,1
+43,Doom Cultist,['Common'],,False,['Curse'],"['After this unit is destroyed, if it was within 2 spaces of the enemy summoner, add 1 damage to that summoner.']",False,0,2,2,Crimson Order,4
+44,Sacral Priest,['Common'],,False,"['Protector', 'Blood Fervor']","['This unit may be summoned adjacent to your summoner.', 'Friendly adjacent damaged units have +1 strength.']",False,1,2,3,Crimson Order,4
+45,Call Forth,[],Summon Phase,False,[None],[None],False,0,,,Crimson Order,2
+46,Death Rite,[],Attack Phase,True,[None],[None],False,0,,,Crimson Order,2
+47,Transfuse,[],Magic Phase,False,[None],[None],False,0,,,Crimson Order,2
+48,Praefectus Edia,['Summoner'],,False,"['Kinetic Siphon', 'Persist']","['Once per turn, after this unit attacks an enemy unit or is attacked by an enemy unit, boost this unit.', 'When you would discard an active event, you may instead spend 2 boost to keep that event in play.']",False,,3,13,Eternal Council,1
+49,Learn,[],Magic Phase,True,[None],[None],False,0,,,Eternal Council,2
+50,Citadel Advisor,['Common'],,False,"['Intel', 'Warn']","['After this unit moves, you may draw 1 card.', 'After this unit attacks an enemy unit, you may choose 1 card in your hand and place it on the bottom of your draw pile to force your summoner 1 space.']",False,1,2,3,Eternal Council,5
+51,Mind Knight,['Common'],,False,"['Invoke Fear', 'Shove']","['After an enemy unit ends its move adjacent to this unit, your opponent must discard 1 card from their hand, if able.', 'After this unit attacks an adjacent enemy common or champion, you may force that enemy 1 space.']",False,2,2,4,Eternal Council,5
+52,Dominus Katu,['Champion'],,False,"['Resolute', 'Imbued Strength']","['At the end of your turn, if there are no cards in your draw pile, boost this unit.', 'This unit has +1 strength for each boost it has, to a maximum of +5.']",False,6,2,10,Eternal Council,1
+53,Dominus Malunar,['Champion'],,False,['Punish'],"['After an enemy unit is summoned within 2 spaces of this unit, your opponent must discard 1 card from their hand, if able.']",False,5,3,8,Eternal Council,1
+54,Dominus Ovi,['Champion'],,False,['Mastermind'],['This unit has +1 strength for every 2 cards you have in your hand.'],False,4,2,6,Eternal Council,1
+55,Ancient Scholar,['Common'],,False,"['Wise', 'Analyze']","['After summoning this unit, you may draw 1 card.', 'After this unit attacks an enemy unit, you may draw 1 card.']",False,1,3,2,Eternal Council,4
+56,Enigma Sage,['Common'],,False,['Exploit'],"['After this unit attacks an enemy unit, you may choose 1 card in your hand and place it on the bottom of your draw pile to target an adjacent unit. Add 1 damage to the target.']",False,2,3,4,Eternal Council,4
+57,Insight,[],Summon Phase,True,[None],[None],False,0,,,Eternal Council,2
+58,Psychic Assault,[],Summon Phase,True,[None],[None],False,0,,,Eternal Council,2
+59,Seek,[],Summon Phase,True,[None],[None],False,0,,,Eternal Council,2
+60,Ret-Talus,['Summoner'],,False,['Raise the Dead'],"['Once per turn, during your Summon Phase, you may add 2 damage to this unit to retrieve an Undead unit from your discard pile and place it adjacent to this unit.']",False,,2,12,Fallen Kingdom,1
+61,Sacrificial Pyre,[],Summon Phase,True,[None],[None],False,1,,,Fallen Kingdom,2
+62,Undead Carrier,['Common'],,False,"['Soulless', 'Infect']","['Do not gain magic when this unit destroys an enemy unit.', 'After this unit destroys a unit, you may replace the destroyed unit with a Carrier unit from your discard pile.']",False,1,2,3,Fallen Kingdom,5
+63,Undead Archer,['Common'],,False,['Soul Shift'],"['After a unit within 3 spaces of this unit is destroyed during your turn, you may replace the destroyed unit with this unit.']",False,2,3,2,Fallen Kingdom,5
+64,Dragos,['Champion'],,False,['Life Drain'],"['Before this unit attacks, it may destroy a friendly unit within 2 spaces.  If it does, during that attack, ']",False,6,4,8,Fallen Kingdom,1
+65,Elut-Bal,['Champion'],,False,['Summoned By Fire'],"['When paying costs to summon this unit, you must also destroy a friendly unit. Replace the destroyed unit with this unit.']",False,6,6,6,Fallen Kingdom,1
+66,Gul-Dass,['Champion'],,False,['Wrath'],['This unit has +1 strength for each damage it has.'],False,6,2,8,Fallen Kingdom,1
+67,Hellfire Cultist,['Common'],,False,['Immolate'],"['After this unit is destroyed, add 1 damage to each enemy unit that was adjacent to it.']",False,0,2,2,Fallen Kingdom,4
+68,Undead Warrior,['Common'],,False,"['Blood Fury', 'Imbued Strength']","['Each time a unit is destroyed on your turn, boost this unit. At the end of your turn, remove 2 boost from this unit.', 'This unit has +1 strength for each boost it has, to a maximum of +5.']",False,2,2,4,Fallen Kingdom,4
+69,Blood Summon,[],Summon Phase,False,[None],[None],False,0,,,Fallen Kingdom,2
+70,Hellforged Weapon,[],Build Phase,False,['Cursed'],"['After this unit attacks, add damage to it equal to the number of ']",True,0,,,Fallen Kingdom,2
+71,Purge,[],Move Phase,False,[None],[None],False,0,,,Fallen Kingdom,2
+72,Kuldak,['Summoner'],,False,['Blood Bloom'],"['After each time a friendly unit within 2 spaces of this unit is destroyed, boost all friendly units that were within 2 spaces of this unit.']",False,,4,12,Fungal Dwarves,1
+73,Release Spores,[],Magic Phase,False,[None],[None],False,0,,,Fungal Dwarves,2
+74,Fungal Beast,['Common'],,False,"['Infect', 'Parasitic']","['After this unit destroys a unit, you may replace the destroyed unit with a Carrier unit from your discard pile.', 'At the end of your Attack Phase, either spend 1 boost or add 1 damage to this unit.']",False,3,3,5,Fungal Dwarves,5
+75,Spore Carrier,['Common'],,False,"['Rupture', 'Fungal Transformation']","['At the end of your Magic Phase, if this unit has 3 or more boost, destroy it.', 'After this unit is destroyed, if it had 3 or more boost, replace it with a Fungal Beast from your discard pile, if able.']",False,0,2,2,Fungal Dwarves,5
+76,Maldar,['Champion'],,False,['Corrupt'],"['At the end of your Move Phase, add 1 damage to this unit.  If this unit is still in play, you may then target a friendly adjacent unit.  Add 2 boost to the target.']",False,3,3,8,Fungal Dwarves,1
+77,Monstrosity,['Champion'],,False,['Final Form'],"['When paying costs to summon this unit, you must also destroy a friendly Fungal Beast that has 5 or more boost. Replace the destroyed unit with this unit.']",False,3,5,13,Fungal Dwarves,1
+78,Thoon,['Champion'],,False,"['Blood Fury', 'Imbued Strength']","['Each time a unit is destroyed on your turn, boost this unit. At the end of your turn, remove 2 boost from this unit.', 'This unit has +1 strength for each boost it has, to a maximum of +5.']",False,6,2,7,Fungal Dwarves,1
+79,Blight Mage,['Common'],,False,['Blood Imbue'],"['Once per turn, during your Move Phase, this unit may target a friendly unit within 2 spaces. Boost the target, then add 1 damage to it.']",False,2,4,3,Fungal Dwarves,4
+80,Blood Shaman,['Common'],,False,['Transfer'],"['After this unit moves, it may target 1 or 2 friendly units within 2 spaces. Move any number of boost either from this unit to one target, or from one target to the other.']",False,1,3,2,Fungal Dwarves,4
+81,Demand,[],Attack Phase,False,[None],[None],False,0,,,Fungal Dwarves,2
+82,Stimshrooms,[],Summon Phase,True,[None],[None],False,0,,,Fungal Dwarves,2
+83,Symbiotic Healing,[],Move Phase,False,[None],[None],False,0,,,Fungal Dwarves,2
+84,Valeria the Just,['Summoner'],,False,"['Dictate', 'Greater Engage']","['After this unit moves or attacks, it may target a common within 2 spaces. Force the target 1 space.', 'Each time an adjacent enemy unit moves or is forced away from this unit, add 2 damage to that enemy.']",False,,2,12,High Elves,1
+85,Oblige,[],Attack Phase,False,[None],[None],False,0,,,High Elves,2
+86,Arbiter of Peace,['Common'],,False,"['Tough', 'Law of Fortitude']","[""The first time this unit is attacked each turn, it reduces the attack's damage by 1."", 'All commons within 2 spaces of this unit have Tough.']",False,1,2,3,High Elves,5
+87,Arbiter of Justice,['Common'],,False,"['Atone', 'Law of Atonement']","['After this unit attacks and damages a card, add 1 damage to it.', 'All commons within 2 spaces of this unit have Atone.']",False,2,3,5,High Elves,5
+88,Albus the Wise,['Champion'],,False,['Annul'],"['At the start of your Move Phase, you may target a common within 3 spaces. The target has no abilities until the end of the turn.']",False,3,3,5,High Elves,1
+89,Cassia the Gentle,['Champion'],,False,['Healing Aura'],"['At the end of your Attack Phase, remove 1 damage from every common within 2 spaces of this unit.']",False,4,3,6,High Elves,1
+90,Titus the Devout,['Champion'],,False,"['Greater Engage', 'Protect']","['Each time an adjacent enemy unit moves or is forced away from this unit, add 2 damage to that enemy.', 'When an adjacent enemy attacks, the target of that attack must be a unit with the Protect ability.']",False,6,3,9,High Elves,1
+91,Arbiter of War,['Common'],,False,"['Strong', 'Law of Strength']","['This unit has +1 strength.', 'All commons within 2 spaces of this unit have Strong.']",False,2,2,3,High Elves,4
+92,Attendant Priest,['Common'],,False,"['Attend', 'Invigorate']","['When summoning this unit, you may summon it adjacent to a friendly Arbiter.', 'After summoning this unit, you may remove 1 damage from an adjacent common unit.']",False,1,2,3,High Elves,4
+93,Law of Liberty,[],Summon Phase,True,['Versatile'],['This unit may attack instead of moving and may move instead of attacking.'],False,0,,,High Elves,2
+94,Law of Loyalty,[],Attack Phase,True,[None],[None],False,0,,,High Elves,2
+95,Law of Sanctity,[],Build Phase,True,[None],[None],False,0,,,High Elves,2
+96,Sunderved,['Summoner'],,False,['Commander'],['Friendly units within 2 spaces of this unit have +1 strength.'],False,,4,12,Mountain Vargath,1
+97,Stronghold,[],Magic Phase,False,[None],[None],False,0,,,Mountain Vargath,2
+98,Wolfsbane Brute,['Common'],,False,"['Slow', 'Ram']","['This unit moves 1 fewer space.', 'At the start of your Move Phase, this unit may target an adjacent enemy unit. Force the target 1 space. If you do, add 1 damage to it.']",False,2,2,5,Mountain Vargath,5
+99,Shale Slinger,['Common'],,False,['Coordinated Shot'],['This unit may attack through friendly units.'],False,1,2,2,Mountain Vargath,5
+100,Quen,['Champion'],,False,['Lightning Strike'],"['When this unit attacks, ']",False,5,3,6,Mountain Vargath,1
+101,Torodin,['Champion'],,False,"['Climb', 'Trample']","['When this unit moves, it may move 1 extra space and through structures.', 'When this unit moves, it may move through commons. After this unit moves, add 1 damage to each common it moved through.']",False,8,3,12,Mountain Vargath,1
+102,Varn,['Champion'],,False,['Form Up'],"['Once per turn, during your turn, this unit may target a friendly common or champion within 2 spaces. Place the target adjacent to this unit.']",False,5,3,7,Mountain Vargath,1
+103,Glory Caller,['Common'],,False,['Call to Arms'],"['After summoning this unit, you may target a friendly unit within 3 spaces. Force the target 1 space.']",False,1,1,4,Mountain Vargath,4
+104,Slagborn Fighter,['Common'],,False,['Forceful Attack'],"['After this unit attacks and damages a unit, you may force that unit 1 space away from this unit.']",False,1,2,3,Mountain Vargath,4
+105,Battle Leader,[],Move Phase,True,[None],[None],False,0,,,Mountain Vargath,2
+106,Marshal Forces,[],Attack Phase,False,[None],[None],False,0,,,Mountain Vargath,2
+107,Ramming Advance,[],Move Phase,True,['Charge'],"['When this unit moves, it may move up to 2 extra spaces if it moves only in one direction. If it moves 3 or more spaces and only in one direction, it has +1 strength until the end of the turn.']",False,0,,,Mountain Vargath,2
+108,Balzar,['Summoner'],,False,"['Burning Rage', 'Imbued Strength']","['After this unit attacks an enemy card, if 0 or 1 ', 'This unit has +1 strength for each boost it has, to a maximum of +5.']",False,,2,13,Obsidian Dwarves,1
+109,Volcanic Blast,[],Attack Phase,False,[None],[None],False,0,,,Obsidian Dwarves,2
+110,Ember Guard,['Common'],,False,['Blaze Step'],"['Once per turn, during your Attack Phase, you may either spend 1 boost from your summoner or add 1 damage to your summoner to place this unit adjacent to your summoner.']",False,1,2,3,Obsidian Dwarves,5
+111,Blood Berserker,['Common'],,False,['Wild Swing'],"['When this unit attacks, ']",False,2,2,5,Obsidian Dwarves,5
+112,Davura,['Champion'],,False,"['Disciple', 'Coordinated Strike']","['Each time 1 or more boost is added to your summoner, add the same number of boost to this unit.', 'After this unit attacks an enemy card, you may spend 3 boost to resolve an extra attack with your summoner.']",False,5,3,8,Obsidian Dwarves,1
+113,The Hell Forge,"['Champion', 'Structure']",,False,"['Inanimate', 'Work the Forge']","['This unit cannot move or attack.', 'Once per turn, during your turn, you may add 1 damage to this unit to retrieve a Hellforged event from your discard pile and play it under a viable unit within 3 spaces.']",False,3,0,6,Obsidian Dwarves,1
+114,Vulkør,['Champion'],,False,"['Disciple', 'Imbued Spirit']","['Each time 1 or more boost is added to your summoner, add the same number of boost to this unit.', 'This unit has +1 strength and +1 life for each boost it has, to a maximum of +5.']",False,6,2,6,Obsidian Dwarves,1
+115,Ember Demon,['Common'],,False,"['Born of Fire', 'Dark Pact']","['This unit may be summoned adjacent to a friendly Ember unit.', 'After summoning this unit, either spend 1 boost from your summoner or add 1 damage to your summoner.']",False,1,3,3,Obsidian Dwarves,4
+116,Oath Sworn,['Common'],,False,['Blood Bond'],"['After this unit attacks an enemy unit, add boost to your summoner equal to the number of ']",False,1,3,2,Obsidian Dwarves,4
+117,Hellforged Axe,[],Build Phase,False,"['Too Strong', 'Smolder']","['This unit has +2 strength.', 'At the start of your turn, add 1 damage to this unit.']",True,0,,,Obsidian Dwarves,2
+118,Hellforged Chains,[],Build Phase,False,"['Reach', 'Smolder']","['This unit may attack cards that are diagonal to it or up to 2 clear straight spaces away.', 'At the start of your turn, add 1 damage to this unit.']",True,0,,,Obsidian Dwarves,2
+119,Willpower,[],Attack Phase,True,['Iron Will'],"['Once per turn, when this unit rolls dice for an attack, you may re-roll all of those dice.']",False,0,,,Obsidian Dwarves,2
+120,Queen Maldaria,['Summoner'],,False,"['Call Protection', 'Save the Queen']","['At the end of your Attack Phase, if this unit attacked an enemy card during this turn, you may place a friendly unit adjacent to this unit.', 'Adjacent friendly units cannot be attacked through or forced.']",False,,4,9,Phoenix Elves,1
+121,Spirit of the Phoenix,[],Summon Phase,True,[None],[None],False,0,,,Phoenix Elves,2
+122,Ember Archer,['Common'],,False,['Quick Shot'],"['After this unit moves, it may target a unit within 3 clear straight spaces. Add 1 damage to the target.']",False,1,2,2,Phoenix Elves,5
+123,Royal Guardian,['Common'],,False,"['Engage', 'Shove']","['Each time an adjacent enemy unit moves or is forced away from this unit, add 1 damage to that enemy.', 'After this unit attacks an adjacent enemy common or champion, you may force that enemy 1 space.']",False,2,1,4,Phoenix Elves,5
+124,Fanessa,['Champion'],,False,['Riposte'],"['After this unit is attacked by an adjacent enemy unit, if this unit is still in play, add 1 damage to that enemy.']",False,5,3,9,Phoenix Elves,1
+125,Fire Drake,['Champion'],,False,"['Protector', 'Fire Breath']","['This unit may be summoned adjacent to your summoner.', 'This unit may attack through units.  When it does, ']",False,8,4,10,Phoenix Elves,1
+126,Holleas,['Champion'],,False,"['Fiery Summon', 'Ignite']","['You may summon Ember units adjacent to this unit.', 'Friendly adjacent Ember units have +1 strength.']",False,5,3,7,Phoenix Elves,1
+127,Ember Beast,['Common'],,False,"['Born of Fire', 'Wildfire']","['This unit may be summoned adjacent to a friendly Ember unit.', 'At the start of your Move Phase, add 1 damage to each adjacent enemy unit.']",False,2,3,3,Phoenix Elves,4
+128,Ember Mage,['Common'],,False,['Guarded'],"['The first time this unit is attacked on a turn, do not add more than 1 damage to it for that attack.']",False,1,2,2,Phoenix Elves,4
+129,Blinding Flare,[],Magic Phase,True,[None],[None],False,1,,,Phoenix Elves,2
+130,Burn,[],Move Phase,False,[None],[None],False,0,,,Phoenix Elves,2
+131,Divine Retribution,[],Magic Phase,True,['Aura of the Phoenix'],"['After this unit or a friendly unit within 3 spaces is attacked by an enemy unit, add 1 damage to that enemy.']",False,0,,,Phoenix Elves,2
+132,Svara,['Summoner'],,False,['Structural Shift'],"['After this unit moves, it may target a friendly structure within 3 spaces. Force the target 1 space.']",False,,3,12,Polar Dwarves,1
+133,Ice Ram,[],Summon Phase,True,[None],[None],False,0,,,Polar Dwarves,2
+134,Frost Mage,['Common'],,False,['Frost Bolt'],['This unit has +1 strength for each adjacent friendly structure.'],False,1,1,4,Polar Dwarves,5
+135,Ice Golem,"['Common', 'Structure']",,False,"['Living Gate', 'Mobile Structure', 'Slow']","['This card is a gate.', 'This card may move.', 'This unit moves 1 fewer space.']",False,2,2,5,Polar Dwarves,5
+136,Jarmund,['Champion'],,False,"['Momentum', 'Ice Shards']","['Once per turn, after this unit attacks an enemy unit, boost this unit.', 'At the end of your Build Phase, you may spend 1 boost to add 1 damage to each enemy unit adjacent to 1 or more structures you control.']",False,5,3,7,Polar Dwarves,1
+137,Nadiana,['Champion'],,False,['Greater Frost Bolt'],['This unit has +1 strength for each friendly structure within 2 spaces.'],False,6,2,7,Polar Dwarves,1
+138,Ollag,['Champion'],,False,['Cold Snap'],['Friendly structures have +1 life.'],False,5,3,7,Polar Dwarves,1
+139,Bear Cavalry,['Common'],,False,['Trample'],"['When this unit moves, it may move through commons. After this unit moves, add 1 damage to each common it moved through.']",False,3,3,5,Polar Dwarves,4
+140,Ice Smith,['Common'],,False,['Frost Axe'],"['After this unit moves, you may either boost it or spend all of its boost to place it under a friendly common within 3 spaces. When that common attacks, ']",True,0,2,2,Polar Dwarves,4
+141,Glacial Shift,[],Build Phase,False,[None],[None],False,0,,,Polar Dwarves,2
+142,Ice Repair,[],Move Phase,False,[None],[None],False,0,,,Polar Dwarves,2
+143,Parapet,['Structure'],,False,[None],[None],False,0,,5,Polar Dwarves,2
+144,Krusk,"['Summoner', 'Structure']",,False,"['Mobile Structure', 'Carry']","['This card may move.', 'Before this unit moves, it may target any number of friendly adjacent units. After it moves, place each target adjacent to this unit.']",False,,3,10,Sand Goblins,1
+145,Detonate,[],Magic Phase,False,[None],[None],False,0,,,Sand Goblins,2
+146,Wrench Rat,['Common'],,False,['Rig Explosives'],"['During your turn, you may place this unit under an adjacent card. After that card is destroyed, add 1 damage to each card that was adjacent to it.']",True,0,2,2,Sand Goblins,5
+147,Rust Rider,"['Common', 'Structure']",,False,"['Mobile Structure', 'Burn Hot']","['This card may move.', 'After this unit moves, you may discard the top card of your draw pile. If you do, you may force it 1 or 2 spaces and it has +1 strength until the end of your turn.']",False,2,2,5,Sand Goblins,5
+148,Clink,['Champion'],,False,['Repair'],"['After this unit destroys an enemy card, remove 1 damage from each friendly structure within 3 spaces of this unit.']",False,4,3,6,Sand Goblins,1
+149,Silts,['Champion'],,False,['Cunning'],"['Once per turn, during your Move or Attack Phase, this unit may exchange places with an adjacent unit.']",False,5,3,7,Sand Goblins,1
+150,Uncle Sparks,"['Champion', 'Structure']",,False,"['Mobile Structure', 'Top Wrench']","['This card may move.', 'Once per turn, during your Build Phase, you may discard the top card of your draw pile to retrieve an Upgrade event or a Wrench unit from your discard pile, reveal it, and add it to your hand.']",False,5,3,8,Sand Goblins,1
+151,Bug Biter,"['Common', 'Structure']",,False,"['Mobile Structure', 'Flight', 'Crash']","['This card may move.', 'When this unit moves, it may move 1 extra space and through cards.', 'After this unit moves, add 1 damage to it and add 1 damage to an adjacent card, if able.']",False,0,1,2,Sand Goblins,4
+152,Sand Scavenger,['Common'],,False,['Scrap'],"['After this unit destroys an enemy card on your turn, you may retrieve a structure from your discard pile, reveal it, and place it on top of your draw pile.']",False,1,3,2,Sand Goblins,4
+153,Mortar Upgrade,[],Build Phase,False,['Explosive Shell'],"['Once per turn, during your Attack Phase, you may target a card exactly 2 spaces away from this card. Discard the top card of your draw pile to add 1 damage to the target and to each card adjacent to it.']",True,0,,,Sand Goblins,2
+154,Thruster Upgrade,[],Build Phase,False,['Thrust'],"['Once per turn, during your Move, Build, or Attack Phase, you may force this card 1 space.']",True,0,,,Sand Goblins,2
+155,Turret Upgrade,[],Build Phase,False,['Gunner'],"['Once per turn, during your Attack Phase, you may target a card within 3 clear straight spaces of this card. Roll 2 dice and add 1 damage to the target for each ']",True,0,,,Sand Goblins,2
+156,Abua Shi,['Summoner'],,False,['Spirit Bond'],"['After this unit moves, you may target a friendly unit within 3 spaces. Boost the target and move all boost from this unit to the target.']",False,,5,10,Savanna Elves,1
+157,Chant of Power,[],Attack Phase,False,['Imbued Strength'],"['This unit has +1 strength for each boost it has, to a maximum of +5.']",False,1,,,Savanna Elves,2
+158,Border Archer,['Common'],,False,"['Prepare', 'Swift Shot']","['Instead of moving this unit, you may boost it.', 'Once per turn, after this unit attacks, you may spend 1 boost to resolve an extra attack with it.']",False,2,2,4,Savanna Elves,5
+159,Lioness,['Common'],,False,"['Momentum', 'Imbued Life']","['Once per turn, after this unit attacks an enemy unit, boost this unit.', 'This unit has +1 life for each boost it has, to a maximum of +5.']",False,2,3,2,Savanna Elves,5
+160,Makeinda Ru,['Champion'],,False,"['Prepare', 'Swift Shot']","['Instead of moving this unit, you may boost it.', 'Once per turn, after this unit attacks, you may spend 1 boost to resolve an extra attack with it.']",False,5,2,9,Savanna Elves,1
+161,Miti Kyru,['Champion'],,False,"['Inspire', 'Withdraw']","['After this unit moves, boost each friendly adjacent unit.', 'After this unit attacks, you may spend either 1 boost or 1 magic. If you do, force this unit 1 or 2 spaces.']",False,5,4,7,Savanna Elves,1
+162,Miti Mumway,['Champion'],,False,"['Imbued Strength', 'Trample']","['This unit has +1 strength for each boost it has, to a maximum of +5.', 'When this unit moves, it may move through commons. After this unit moves, add 1 damage to each common it moved through.']",False,8,1,11,Savanna Elves,1
+163,Rhinoceros,['Common'],,False,"['Imbued Speed', 'Trample']","['When this unit moves, it may move 1 extra space for each boost it has, to a maximum of +5.', 'When this unit moves, it may move through commons. After this unit moves, add 1 damage to each common it moved through.']",False,2,2,5,Savanna Elves,4
+164,Spirit Mage,['Common'],,False,"['Charged', 'Commune With Spirits']","['After summoning this unit, boost it.', 'After this unit moves, either boost it or spend 1 boost to boost a friendly unit within 3 spaces.']",False,1,3,2,Savanna Elves,4
+165,Chant of Entangling,[],Summon Phase,True,[None],[None],False,0,,,Savanna Elves,2
+166,Chant of Growth,[],Move Phase,False,[None],[None],False,0,,,Savanna Elves,2
+167,Chant of Weaving,[],Summon Phase,True,[None],[None],False,0,,,Savanna Elves,2
+168,Selundar,['Summoner'],,False,"['Blood Magic', 'Return to Shadow']","['During your turn, after each time 1 or more damage is added to a friendly card within 3 spaces of this unit, boost this unit.', 'During your turn, you may spend 2 boost to target a friendly unit within 3 spaces of this unit. Return the target to your hand.']",False,,5,11,Shadow Elves,1
+169,Into Darkness,[],Build Phase,False,[None],[None],False,0,,,Shadow Elves,2
+170,Shadow Mage,['Common'],,False,['Forbidden Knowledge'],"['After this unit moves, you may add 1 damage to either this unit or an adjacent gate to draw 1 card.']",False,2,3,4,Shadow Elves,5
+171,Sage Ranger,['Common'],,False,"['Piercing Light', 'Rush']","['This unit may attack through units during the turn it was summoned.', 'After summoning this unit, you may force it 1 space.']",False,1,2,3,Shadow Elves,5
+172,Lucian,['Champion'],,False,"['Dark Prophecy', 'Judgment']","['Each time a friendly unit leaves play, boost this unit.', 'After moving this unit, you may remove any number of boost from it to add an equal amount of damage to an adjacent common or champion.']",False,5,3,8,Shadow Elves,1
+173,Samara,['Champion'],,False,['Inevitable Doom'],"['At the end of your Attack Phase, if this unit destroyed an enemy unit this turn, add 1 damage to the enemy summoner.  Otherwise, add 1 damage to your summoner.']",False,5,4,7,Shadow Elves,1
+174,Taliya,['Champion'],,False,['Rend the Veil'],"['Once per turn, after this unit moves, if it is adjacent to a damaged enemy gate, you may place a friendly common adjacent to that gate.']",False,5,3,7,Shadow Elves,1
+175,Shadow Knight,['Common'],,False,"['Shadow Summon', 'Death Pact']","['When summoning this unit, target a friendly card that does not have Shadow Summon. Place this unit adjacent to the target. Add 1 damage to the target.', 'After this unit is destroyed, add 1 damage to your summoner.']",False,1,2,5,Shadow Elves,4
+176,True Seeker,['Common'],,False,"['Aggressive Attack', 'Feint']","['This unit has +2 strength during the turn it was summoned.', 'After this unit attacks, you may force it 1 or 2 spaces.']",False,1,1,3,Shadow Elves,4
+177,Glinting Speed,[],Attack Phase,True,['Flash Step'],"['After a unit within 3 spaces of this unit leaves the battlefield during your turn, you may replace that unit with this unit.']",False,0,,,Shadow Elves,2
+178,Onyx Tome,[],Summon Phase,False,[None],[None],False,1,,,Shadow Elves,2
+179,Shadow Pulse,[],Attack Phase,False,[None],[None],False,0,,,Shadow Elves,2
+180,Ava,['Summoner'],,False,"['Flight', 'Take to the Skies']","['When this unit moves, it may move 1 extra space and through cards.', 'At the start of your Move Phase, friendly Aerie units within 2 spaces of this unit gain Flight until the end of your turn.']",False,,3,10,Skyspear Avians,1
+181,Gathering Song,[],Summon Phase,True,['Gather the Flock'],"['Once per turn during your Summon Phase and once per turn during your Magic Phase, you may place up to 2 friendly commons adjacent to this unit.']",False,0,,,Skyspear Avians,2
+182,Aerie Sage,['Common'],,False,"['Strong', 'Aerie Support']","['This unit has +1 strength.', 'Friendly adjacent Aerie units have Strong.']",False,1,1,3,Skyspear Avians,5
+183,Aerie Steward,['Common'],,False,['Worthy'],"['When this unit attacks, if it is adjacent to your summoner, ']",False,2,2,5,Skyspear Avians,5
+184,Gilford,['Champion'],,False,"['Flight', 'Bully']","['When this unit moves, it may move 1 extra space and through cards.', 'After this unit moves, it may target any number of adjacent enemy units. Force each target 1 space.']",False,5,3,7,Skyspear Avians,1
+185,Rath,['Champion'],,False,"['Prepare', 'Prey']","['Instead of moving this unit, you may boost it.', 'Once per turn during your Attack Phase, you may spend a boost to place this unit adjacent to a damaged enemy common or champion.']",False,6,4,7,Skyspear Avians,1
+186,Sairook,['Champion'],,False,['Aerie Captain'],"['While on the battlefield, this unit has the abilities of every friendly Aerie unit on the battlefield.']",False,5,3,6,Skyspear Avians,1
+187,Aerie Diver,['Common'],,False,"['Dive In', 'Sudden Strike']","['This unit may be summoned on a space within 2 spaces of your summoner.', 'After summoning this unit, you may add 1 damage to an adjacent enemy unit.']",False,1,2,2,Skyspear Avians,4
+188,Aerie Sentinel,['Common'],,False,['Stalwart'],"['This unit cannot be forced, moved through, or attacked through by effects on cards your opponent controls.']",False,2,3,4,Skyspear Avians,4
+189,Aerie Gate,['Structure'],,False,[None],[None],False,0,,3,Skyspear Avians,2
+190,Battle Song,[],Attack Phase,True,['Blitz'],"['The first time this unit attacks on a turn, it has +1 strength during that attack.']",False,0,,,Skyspear Avians,2
+191,Sky Assault,[],Attack Phase,True,['Aerial Shot'],['This unit may attack through units.'],False,0,,,Skyspear Avians,2
+192,Mugglug,['Summoner'],,False,"['Reap', 'Far Strike']","['Before this unit attacks, it may spend 1 boost from any number of friendly units within 3 spaces. This unit has +1 strength during that attack for each boost spent.', 'This unit may attack cards up to 2 clear straight spaces away.']",False,,3,13,Swamp Orcs,1
+193,Emerge,[],Summon Phase,True,[None],[None],False,0,,,Swamp Orcs,2
+194,Vinemancer,['Common'],,False,"['Grow', 'Vine Pull']","['After this unit moves, boost it.', 'Once per turn, during your attack phase, you may spend 1 boost to target a friendly unit or enemy common within 3 spaces of this unit. Force the target 1 space toward this unit.']",False,1,2,3,Swamp Orcs,5
+195,Bog Shaman,['Common'],,False,['Entwine'],"['After a friendly unit ends its move within 2 spaces of this unit, if this unit has 2 or fewer boost, boost this unit.']",False,1,2,3,Swamp Orcs,5
+196,Blub,['Champion'],,False,"['Rush', 'Aggressive Attack']","['After summoning this unit, you may force it 1 space.', 'This unit has +2 strength during the turn it was summoned.']",False,5,3,7,Swamp Orcs,1
+197,Glurp,['Champion'],,False,['Germinate'],"['After this unit attacks and destroys an enemy unit, you may replace that unit with a Vine Gate retrieved from your draw pile, hand, or discard pile.']",False,6,3,7,Swamp Orcs,1
+198,Splack,['Champion'],,False,"['Tireless', 'Relentless']","['You may choose this unit as an extra moving unit during your Move Phase.', 'You may choose this unit as an extra attacking unit during your Attack Phase.']",False,4,3,5,Swamp Orcs,1
+199,Bog Witch,['Common'],,False,"['Grow', 'Augment']","['After this unit moves, boost it.', 'Instead of attacking with this unit, you may spend 2 boost to resolve an extra attack with a friendly adjacent summoner or champion.']",False,1,2,2,Swamp Orcs,4
+200,Mud Drudger,['Common'],,False,"['Tireless', 'Prune']","['You may choose this unit as an extra moving unit during your Move Phase.', 'When 1 or more damage would be added to your summoner, if it is adjacent to any friendly units with Prune, instead destroy those units.']",False,1,3,1,Swamp Orcs,4
+201,Regenerate,[],Attack Phase,False,[None],[None],False,0,,,Swamp Orcs,2
+202,Sow,[],Attack Phase,False,[None],[None],False,0,,,Swamp Orcs,2
+203,Vine Gate,['Structure'],,False,[None],[None],False,0,,3,Swamp Orcs,2
+204,Grognack,['Summoner'],,False,"['Restore', 'Influence']","['After this unit moves, if it is unboosted, boost it.', 'When a friendly unit within 3 spaces of this unit rolls dice for an attack or ability during your turn, you may spend 1 boost to re-roll all of those dice.']",False,,4,14,Tundra Orcs,1
+205,For Glory,[],Build Phase,True,['Reckless Strike'],"['This unit has +2 strength. When this unit attacks, if 0 or 1 ']",False,0,,,Tundra Orcs,2
+206,Frost Shaman,['Common'],,False,['Unwieldy Magic'],"['When this unit attacks, if 0 ']",False,1,3,4,Tundra Orcs,5
+207,Tundra Fighter,['Common'],,False,['Frenzy'],"['After each time this unit attacks an adjacent enemy card, roll a die. If a ']",False,1,2,3,Tundra Orcs,5
+208,Ragnor,['Champion'],,False,['Blood Bond'],"['After this unit attacks an enemy unit, add boost to your summoner equal to the number of ']",False,5,3,8,Tundra Orcs,1
+209,Shonk,['Champion'],,False,['Wild Strike'],"['When this unit attacks, add 1 damage to the target for each ']",False,5,8,11,Tundra Orcs,1
+210,Targan,['Champion'],,False,"['Far Shot', 'Piercing Frost']","['This unit may attack cards up to 4 clear straight spaces away.', 'Friendly adjacent Frost units have +1 strength.']",False,5,4,6,Tundra Orcs,1
+211,Smasher,['Common'],,False,['Sluggish'],"['When this unit is being attacked, ']",False,3,4,6,Tundra Orcs,4
+212,Tundra Charger,['Common'],,False,['Blood Rush'],"['After summoning this unit, you may add 1 damage to it to force it 1 space.']",False,0,2,2,Tundra Orcs,4
+213,Brutal Force,[],Attack Phase,True,['Forceful Attack'],"['After this unit attacks and damages a unit, you may force that unit 1 space away from this unit.']",False,0,,,Tundra Orcs,2
+214,Freeze,[],Summon Phase,True,[None],[None],False,0,,,Tundra Orcs,2
+215,Primal Fury,[],Attack Phase,True,[None],[None],False,0,,,Tundra Orcs,2
+216,Sera Eldwyn,['Summoner'],,False,"[""The Citadel's Might""]","['After this unit attacks an enemy unit, if there are 1 or more friendly Citadel units on the battlefield, you may retrieve a Citadel unit from your discard pile, reveal it, and add it to your hand.']",False,,3,12,Vanguards,1
+217,Holy Judgment,[],Attack Phase,True,[None],[None],False,0,,,Vanguards,2
+218,Temple Priest,['Common'],,False,['Heal'],"['Before this unit attacks a friendly common or champion, you may discard 1 card from your hand. If you do, instead of adding damage, remove a number of damage equal to the number of ']",False,0,2,2,Vanguards,5
+219,Citadel Knight,['Common'],,False,"['Engage', 'Protect']","['Each time an adjacent enemy unit moves or is forced away from this unit, add 1 damage to that enemy.', 'When an adjacent enemy attacks, the target of that attack must be a unit with the Protect ability.']",False,2,2,5,Vanguards,5
+220,Colleen Brighton,['Champion'],,False,['Divine Shield'],"['Each time a friendly Citadel unit within 3 spaces of this unit is targeted by an attack from an enemy, roll 2 dice. For each ']",False,6,3,8,Vanguards,1
+221,Jacob Eldwyn,['Champion'],,False,['Radiant Shot'],['This unit has +1 strength for every 2 magic you have.'],False,5,2,6,Vanguards,1
+222,Valna Stoutheart,['Champion'],,False,"['Guidance', 'Citadel Champion']","['At the start of your Summon Phase, draw 2 cards.', 'This unit has +1 strength for each friendly Citadel unit within 2 spaces.']",False,6,2,9,Vanguards,1
+223,Citadel Archer,['Common'],,False,['Arrow of Light'],"['Before this unit attacks, reveal and discard any number of distinct units from your hand. Gain 1 magic for each. This unit has +1 strength during that attack for each.']",False,2,1,5,Vanguards,4
+224,Citadel Paladin,['Common'],,False,['Intercession'],"['After this unit attacks an enemy unit, draw cards equal to the number of ']",False,2,3,4,Vanguards,4
+225,Guarding Spirits,[],Magic Phase,True,['Guarded'],"['The first time this unit is attacked on a turn, do not add more than 1 damage to it for that attack.']",False,0,,,Vanguards,2
+226,Mass Heal,[],Move Phase,False,[None],[None],False,1,,,Vanguards,2
+227,Renewed Hope,[],Summon Phase,True,[None],[None],False,0,,,Vanguards,2
+228,Celeste,['Summoner'],,False,['Well Traveled'],"['This unit has +1 strength for each friendly unit on your opponent’s side of the battlefield, to a maximum of +3.']",False,,3,12,Wayfarers,1
+229,Coordinate,[],Move Phase,True,[None],[None],False,0,,,Wayfarers,2
+230,Gem Dancer,['Common'],,False,['Footwork'],"['After this unit targets an adjacent enemy common for an attack, before rolling dice, it may exchange places with that enemy.']",False,2,2,5,Wayfarers,5
+231,Spirit Voyager,['Common'],,False,['Spirit Leap'],"['After this unit moves, you may place it adjacent to a friendly unit within 2 spaces.']",False,1,3,2,Wayfarers,5
+232,Boldo,['Champion'],,False,['Agile'],"['After this unit moves or attacks, you may place it on a space that is diagonal to it.']",False,5,3,8,Wayfarers,1
+233,Gusto,['Champion'],,False,['Favorable Winds'],"['After this unit moves, it may target a friendly unit. Force the target 1 or 2 spaces toward your opponent’s back row.']",False,4,3,6,Wayfarers,1
+234,Tess,['Champion'],,False,['Illusions'],"['After this unit moves, it may exchange places with a friendly structure.']",False,5,3,7,Wayfarers,1
+235,Eager Adventurer,['Common'],,False,"['Well-Prepared', 'Embark']","['After summoning this unit, add 2 boost to it.', 'During your turn, you may spend 1 boost to force this unit 1 space toward your opponent’s back row.']",False,2,3,3,Wayfarers,4
+236,Wayward Rogue,['Common'],,False,['Sneak Attack'],['This unit may attack cards that are diagonal to it.'],False,0,2,2,Wayfarers,4
+237,Astral Waypoint,['Structure'],,False,[None],[None],False,0,,2,Wayfarers,2
+238,Seek the Horizon,[],Summon Phase,True,[None],[None],False,0,,,Wayfarers,2
+239,Slip By,[],Move Phase,True,[None],[None],False,1,,,Wayfarers,2
